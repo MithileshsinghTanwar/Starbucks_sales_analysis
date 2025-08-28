@@ -1,6 +1,6 @@
 Coffee Sales Dashboard
 
-<img width="402" height="125" alt="image" src="https://github.com/user-attachments/assets/13b86634-3c96-487f-8402-8a0dbbe2c2ce" />
+![photo-1497515114629-f71d768fd07c](https://github.com/user-attachments/assets/5b520009-d07b-46db-826d-33daa194d667)
 
 
 Overview :
