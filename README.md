@@ -1,6 +1,7 @@
 Coffee Sales Dashboard
 
-![images](https://github.com/user-attachments/assets/e6b8e578-a9cf-4a53-8f92-c56aef034730)
+<img width="402" height="125" alt="image" src="https://github.com/user-attachments/assets/13b86634-3c96-487f-8402-8a0dbbe2c2ce" />
+
 
 Overview :
 This dashboard is for presenting my insights to the regional manager of the coffee chain with 3 different stores.I have created a dashboard which can help me discuss the operations of these stores with my higher-ups. This will be done solely to optimize the operations.
