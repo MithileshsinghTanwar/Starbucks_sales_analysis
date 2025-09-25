@@ -30,4 +30,4 @@ I have noticed that the bottom products for all the stores include some flavours
 
 Dashboard :
 
-<img width="1439" height="577" alt="Screenshot (153)" src="https://github.com/user-attachments/assets/6ac821fe-60cf-4775-8d5a-9bbab8d99a5d" />
+<img width="1857" height="743" alt="Screenshot (205)" src="https://github.com/user-attachments/assets/32cf59e5-de12-43fb-9f4b-b1064bff3bd8" />
